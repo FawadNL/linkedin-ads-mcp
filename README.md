@@ -6,6 +6,9 @@
 
 An MCP (Model Context Protocol) server that enables **Claude AI** to access and analyze your LinkedIn Ads data. Built for marketers, founders, and growth teams who want to leverage AI for campaign optimization, performance reporting, and data-driven advertising decisions.
 
+> [!TIP]
+> **Want this without any setup?** From the same author: **[AdPlug](https://adplug.app)** is the hosted LinkedIn Ads MCP. Sign in with OAuth (no LinkedIn developer app, no credentials to manage), connect Claude, ChatGPT, or Cursor in about two minutes, and get Google Ads and Microsoft Ads on the same connector. Read tools are free; every write is previewed before it runs. This open-source server stays free and self-hosted.
+
 ---
 
 # Quick Install (No Coding Required!)
